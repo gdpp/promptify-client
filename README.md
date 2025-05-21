@@ -20,6 +20,7 @@ A simple tool to generate and share development prompts for inspiration and lear
 -   **Vite**: As quick bundler.
 -   **TypeScript**: Superset of JavaScript that adds static typing.
 -   **DaisyUI**: Clean and Quick Styles
+
 <!--
 React Router (rutas si es SPA)
 Axios o fetch (para llamadas al backend)
@@ -65,5 +66,4 @@ Bonus opcionales para destacar
 <!-- 
 1.   **Deploy**:
     -   *Frontend*: TBD
-    -   *Backend*: TBD
-    -   *Database*: TBD -->
+-->
